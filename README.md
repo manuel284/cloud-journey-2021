@@ -5,6 +5,8 @@ This repo is about all the cloud-related topics I've been working on since July 
 - Certifications and trainings
   - Complete [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
   - Participate in my employer's _Cloud Architect Program_
+  - Complete Udacity's [SUSE Cloud Native Foundations Scholarship Program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
+  - Complete Udacity's [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)
 - Books
   - [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/)
   - [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
