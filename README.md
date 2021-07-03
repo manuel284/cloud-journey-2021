@@ -34,3 +34,18 @@ The Developer’s Guide to Azure
   - [How to choose a service](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/3-analyze-the-decision-criteria)
   ![How to choose a service](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/media/3-service-choice-flow-diagram.png)
     </details>
+
+## Day 3 - July 3
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Create serverless logic with Azure Functions</summary>
+
+  - Learned about the benefits and drawbacks of serverless compute solutions
+    - \+ no need to provision VM servers
+    - \+ stateless logic
+    - \+ event driven
+    - \- execution time
+    - \- execution frequency
+  - Created a function app in Azure Portal
+  ![function app](screenshots/day3_function.png)
+    </details>
