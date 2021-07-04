@@ -49,3 +49,24 @@ The Developer’s Guide to Azure
   - Created a function app in Azure Portal
   ![function app](screenshots/day3_function.png)
     </details>
+
+## Day 4 - July 4
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Execute an Azure Function with triggers</summary>
+
+  - Learned about triggers for Azure Functions
+    - Types of triggers
+      - Timer
+      - HTTP
+      - Blob
+      - Queue
+      - Azure Cosmos DB
+      - Event Hub
+    - [CRON expression](https://github.com/atifaziz/NCrontab) for a timer trigger
+  - Created a function app with a timer trigger in Azure Portal
+  ![function app](screenshots/day4_timertrigger.png)
+  - Created a function app with a blob trigger in Azure Portal
+  ![function app](screenshots/day4_blobtrigger.png)
+    </details>
+ 
