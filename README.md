@@ -69,4 +69,14 @@ The Developer’s Guide to Azure
   - Created a function app with a blob trigger in Azure Portal
   ![function app](screenshots/day4_blobtrigger.png)
     </details>
+
+## Day 5 - July 5
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details open>
+    <summary>Module: Chain Azure Functions together using input and output bindings</summary>
+
+  - Learned about input and output bindings
+  - Created a function app with an http trigger and a cosmos db input binding in Azure Portal
+  ![function app](screenshots/day5_httptrigger_cosmosdbbinding.png)
+  </details>
  
