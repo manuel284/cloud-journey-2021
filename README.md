@@ -72,11 +72,30 @@ The Developer’s Guide to Azure
 
 ## Day 5 - July 5
 - AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
-    <details open>
+    <details>
     <summary>Module: Chain Azure Functions together using input and output bindings</summary>
 
   - Learned about input and output bindings
   - Created a function app with an http trigger and a cosmos db input binding in Azure Portal
   ![function app](screenshots/day5_httptrigger_cosmosdbbinding.png)
   </details>
+
+## Day 6 - July 6
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Create a long-running serverless workflow with Durable Functions</summary>
+
+  - Learned about the different types of durable functions
+    - Client functions
+    - Orchestrator functions
+    - Activity functions
+  - Learned about the different applications patterns
+    - Function chaining
+    - Fan out/fan in
+    - Async HTTP APIs
+    - Monitor
+    - Human interaction
+  - Created a durable function
+  ![durable function](screenshots/day6_durablefunction.png)
+
  
