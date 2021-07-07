@@ -97,5 +97,18 @@ The Developer’s Guide to Azure
     - Human interaction
   - Created a durable function
   ![durable function](screenshots/day6_durablefunction.png)
+</details>
 
+## Day 7 - July 7
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Develop, test, and publish Azure Functions by using Azure Functions Core Tools</summary>
+
+  - Learned how to create Azure Functions locally and publish it to Azure
+    - func init
+    - func new
+    - func start
+    - func azure functionapp publish <app_name>
+  ![func](screenshots/day7_func.png)
+</details>
  
