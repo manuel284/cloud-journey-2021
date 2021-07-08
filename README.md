@@ -111,4 +111,19 @@ The Developer’s Guide to Azure
     - func azure functionapp publish <app_name>
   ![func](screenshots/day7_func.png)
 </details>
- 
+
+## Day 8 - July 8
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Develop, test, and deploy an Azure Function with Visual Studio</summary>
+
+  - Learned how to create Azure Functions in Visual Studio 2019
+    - Installed _ASP.NET and web development_ and _Azure development_ workloads
+    - Created Function App in VS 2019
+    - Tested it locally
+    - Deployed it to Azure
+    - Ran local unit tests
+  ![func](screenshots/day8_vs.png)
+  ![func](screenshots/day8_vs_publish.png)
+  ![func](screenshots/day8_vs_unittests.png)
+</details>
