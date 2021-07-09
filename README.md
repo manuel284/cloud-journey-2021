@@ -127,3 +127,15 @@ The Developer’s Guide to Azure
   ![func](screenshots/day8_vs_publish.png)
   ![func](screenshots/day8_vs_unittests.png)
 </details>
+
+## Day 9 - July 9
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Monitor GitHub events by using a webhook with Azure Functions</summary>
+
+  - Learned how to create a webhook to receive data from GitHub
+    - Webhooks settings in GitHub
+    - Securing the webhook with a secret
+    - Extracting values from the webhook request
+  ![func](screenshots/day9_webhook.png)
+</details>
