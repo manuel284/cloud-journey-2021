@@ -139,3 +139,15 @@ The Developer’s Guide to Azure
     - Extracting values from the webhook request
   ![func](screenshots/day9_webhook.png)
 </details>
+
+## Day 10 - July 10
+- AZ-204: Continued learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Enable automatic updates in a web application using Azure Functions and SignalR Service</summary>
+
+  - Learned how to use an efficient web application architecture
+    - communication between server and client only happens when data has changed
+    - Use Cosmos DB trigger to detect data change
+    - improve response time
+</details>
+
