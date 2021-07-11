@@ -151,3 +151,17 @@ The Developer’s Guide to Azure
     - improve response time
 </details>
 
+## Day 11 - July 11
+- AZ-204: Finished learning path [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+    <details>
+    <summary>Module: Expose multiple Azure Function apps as a consistent API by using Azure API Management</summary>
+
+  - Learned how to expose an Azure Function as an API to Azure API Management
+    - from the Function
+    - from API Management
+  - Learned about the benefits of using Azure API Management
+    - Client apps are coupled to the exposed API, not the backend. This allows us to update the backend without impacting the client app.
+    - We can make our APIs consistent, e.g. by transforming XML to JSON.
+    - Enforce security requirements with policies
+  ![func](screenshots/day11_apim.png)
+</details>
