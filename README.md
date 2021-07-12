@@ -165,3 +165,27 @@ The Developer’s Guide to Azure
     - Enforce security requirements with policies
   ![func](screenshots/day11_apim.png)
 </details>
+
+## Day 12 - July 12
+- AZ-204: Started learning path [Connect your services together
+](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
+    <details>
+    <summary>Module: Choose a messaging model in Azure to loosely connect your services</summary>
+
+  - Learned about communication strategies
+    - Messages
+      - contains raw data
+      - contains the data itself, not a reference
+      - the sender expects the receiver to process the message in a certain way
+    - Events
+      - publisher and receiver
+      - broadcast communications
+      - lightweight notification
+      - can have 0,n receivers
+      - "fan out"
+  - Learned about different messaging models
+    - Storage queue
+    - Event Grid
+    - Event Hubs
+    - Service Bus
+</details>
