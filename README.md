@@ -123,9 +123,9 @@ The Developer’s Guide to Azure
     - Tested it locally
     - Deployed it to Azure
     - Ran local unit tests
-  ![func](screenshots/day8_vs.png)
-  ![func](screenshots/day8_vs_publish.png)
-  ![func](screenshots/day8_vs_unittests.png)
+  ![function in visual studio](screenshots/day8_vs.png)
+  ![publish from visual studio](screenshots/day8_vs_publish.png)
+  ![unit tests](screenshots/day8_vs_unittests.png)
 </details>
 
 ## Day 9 - July 9
@@ -137,7 +137,7 @@ The Developer’s Guide to Azure
     - Webhooks settings in GitHub
     - Securing the webhook with a secret
     - Extracting values from the webhook request
-  ![func](screenshots/day9_webhook.png)
+  ![webhook](screenshots/day9_webhook.png)
 </details>
 
 ## Day 10 - July 10
@@ -163,7 +163,7 @@ The Developer’s Guide to Azure
     - Client apps are coupled to the exposed API, not the backend. This allows us to update the backend without impacting the client app.
     - We can make our APIs consistent, e.g. by transforming XML to JSON.
     - Enforce security requirements with policies
-  ![func](screenshots/day11_apim.png)
+  ![apim](screenshots/day11_apim.png)
 </details>
 
 ## Day 12 - July 12
@@ -188,4 +188,25 @@ The Developer’s Guide to Azure
     - Event Grid
     - Event Hubs
     - Service Bus
+</details>
+
+## Day 13 - July 13
+- AZ-204: Continued learning path [Connect your services together
+](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
+    <details>
+    <summary>Module: Implement message-based communication workflows with Azure Service Bus</summary>
+
+  - Learned when to choose Service Bus queues, topics, or relays
+    - Queue
+      - one sender, one receiver
+      - FIFO
+      - max. message size: 64 KB
+    - Topic
+      - similar to a queue but with multiple receivers  
+    - Relay
+      - direct communication between two partners
+  - Configured and Azure Service Bus namespace
+  - Created a Service Bus topic
+  - Created a Service Bus queue
+  ![azure service bus](screenshots/day13_azureservicebus.png)
 </details>
