@@ -210,3 +210,15 @@ The Developer’s Guide to Azure
   - Created a Service Bus queue
   ![azure service bus](screenshots/day13_azureservicebus.png)
 </details>
+
+## Day 14 - July 14
+- AZ-204: Continued learning path [Connect your services together
+](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
+    <details>
+    <summary>Module: Communicate between applications with Azure Queue storage 1/x</summary>
+
+  - Learned about Azure Queue storage
+    - 1,n senders/receivers
+    - requires Azure general-purpose storage accounts (v1 or v2)
+  - Created an Azure Queue storage and send/received messages    
+</details>
