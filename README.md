@@ -222,3 +222,14 @@ The Developer’s Guide to Azure
     - requires Azure general-purpose storage accounts (v1 or v2)
   - Created an Azure Queue storage and send/received messages    
 </details>
+
+## Day 15 - July 15
+- AZ-204: Continued learning path [Connect your services together
+](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
+    <details>
+    <summary>Module: Enable reliable messaging for Big Data applications using Azure Event Hubs</summary>
+
+  - Created an EventHub using Azure CLI
+  - Send/received messages through an Event Hub
+  - Evaluated the performance in Azure Portal
+</details>
